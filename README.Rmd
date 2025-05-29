@@ -262,6 +262,7 @@ sticker(p, package="hexSticker", p_size=22, s_x=1, s_y=.75, s_width=1.3, s_heigh
 [<img src="https://github.com/SchlossLab/schtools/raw/main/man/figures/logo.png" height="120"/>](https://github.com/SchlossLab/schtools)
 [<img src="https://github.com/thiyangt/seer/raw/master/logo/seer.png" height="120"/>](https://github.com/thiyangt/seer/raw/master/logo/seer.png)
 [<img src="https://github.com/sborms/sentometrics/raw/master/man/figures/logo.png" height="120"/>](https://github.com/sborms/sentometrics)
+[<img src="https://github.com/rincondf/sequential.pops/blob/master/man/figures/logo.png" height="120"/>](https://rincondf.github.io/sequential.pops/)
 [<img src="https://raw.githubusercontent.com/IyarLin/simMixedDAG/master/inst/simMixedDAGhex.png" height="120"/>](https://github.com/IyarLin/simMixedDAG)
 [<img src="https://user-images.githubusercontent.com/9893806/34084712-02f8698a-e33a-11e7-86e7-ce60bf51fe86.png" height="120"/>](https://github.com/Bohdan-Khomtchouk/shinyheatmap)
 [<img src="https://raw.githubusercontent.com/cwthom/shinyhelper/master/data-raw/shinyhelper.png" height="120"/>](https://github.com/cwthom/shinyhelper)
